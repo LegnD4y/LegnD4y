@@ -1,6 +1,6 @@
 ## 👾 Um pouco sobre mim!
 
-![Legend GitHub stats](https://github-readme-stats.vercel.app/api?username=Legend0b0&show_icons=true&theme=radical)
+![LegnD4y GitHub stats](https://github-readme-stats.vercel.app/api?username=Legend0b0&show_icons=true&theme=radical)
 
  ## Principais tecnologias
 <div style="display: inline_block"><br/>
@@ -14,5 +14,5 @@
 </div>
 
 <!--
-**Legend0b0/Legend0b0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LegnD4y/LegnD4y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
