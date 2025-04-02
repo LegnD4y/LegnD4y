@@ -1,6 +1,6 @@
 ## 👾 Um pouco sobre mim!
 
-![LegnD4y GitHub stats](https://github-readme-stats.vercel.app/api?username=Legend0b0&show_icons=true&theme=radical)
+![LegnD4y GitHub stats](https://github-readme-stats.vercel.app/api?username=LegnD4y&show_icons=true&theme=radical)
 
  ## Principais tecnologias
 <div style="display: inline_block"><br/>
